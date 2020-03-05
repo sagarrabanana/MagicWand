@@ -1,5 +1,5 @@
 # MagicWand
-Harry potter scape room prop.
+Harry potter scape room prop. with Raspberry Pi, OpenCV and Sklearn
 
 It's a scape room gadget that recognizes the pattern done by the magic wand and opens a secret cabinet if this pattern is correct.
 
